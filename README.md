@@ -26,8 +26,4 @@
 
 ###
 
-<h1 align="center">About Me</h1>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/SHOBHITXSHARMA/SHOBHITXSHARMA/output/snake.svg" alt="Snake animation" />
-</div>
