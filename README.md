@@ -1,13 +1,12 @@
-<h2 align="left">Hey there! I'm Shobhit Sharma, a final-year Computer Science student based in Delhi. I work on full-stack web development, handling both front-end and back-end. <br><br>
-💻 Tech Stack:<br><br>Front-end: React, CSS, JavaScript, HTML, Tailwind<br>Back-end: Node.js, Express, MongoDB, MySQL<br>Programming Languages: Java<br><br>Interests: Front-end & Back-end Development | Artificial Intelligence | Tech Innovations<br><br>Let’s build something awesome! 🚀</h2>
-
-###
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SHOBHITXSHARMA&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=blueberry&hide_border=true" height="150" alt="languages graph"  />
+  <img src="https://drive.google.com/uc?export=view&id=1jLcE6uum-4_apt5War7-Cf2IK5DM4j_w" alt="Banner Image" width="100%" />
 </div>
 
+<h2 align="left">Hey there! I'm Shobhit Sharma, a final-year Computer Science student based in Delhi. I work on full-stack web development, handling both front-end and back-end. <br><br>💻 Tech Stack:<br><br>Front-end: React, CSS, JavaScript, HTML, Tailwind<br>Back-end: Node.js, Express, MongoDB, MySQL<br>Programming Languages: Java<br><br>Interests: Front-end & Back-end Development | Artificial Intelligence | Tech Innovations<br><br>Let’s build something awesome! 🚀</h2>
+
 ###
+
+<h2 align="center">Skills & Tech Stack</h2>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
@@ -25,17 +24,8 @@
 
 ###
 
-<div align="left">
-  <a href="shobhitxsharma" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
-  </a>
-  <a href="shobhitxsharma" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="shobhitxsharma" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="devops.shobhit@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
+<h2 align="center">About Me</h2>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/SHOBHITXSHARMA/SHOBHITXSHARMA/output/snake.svg" alt="Snake animation" />
 </div>
