@@ -1,12 +1,14 @@
 <div align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1jLcE6uum-4_apt5War7-Cf2IK5DM4j_w" alt="Banner Image" width="100%" />
+  <img src="Banner.png" alt="Banner Image" width="100%" />
 </div>
+
+<h1 align="center">About Me</h1>
 
 <h2 align="left">Hey there! I'm Shobhit Sharma, a final-year Computer Science student based in Delhi. I work on full-stack web development, handling both front-end and back-end. <br><br>💻 Tech Stack:<br><br>Front-end: React, CSS, JavaScript, HTML, Tailwind<br>Back-end: Node.js, Express, MongoDB, MySQL<br>Programming Languages: Java<br><br>Interests: Front-end & Back-end Development | Artificial Intelligence | Tech Innovations<br><br>Let’s build something awesome! 🚀</h2>
 
 ###
 
-<h2 align="center">Skills & Tech Stack</h2>
+<h1 align="center">Skills & Tech Stack</h1>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
@@ -24,7 +26,7 @@
 
 ###
 
-<h2 align="center">About Me</h2>
+<h1 align="center">About Me</h1>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/SHOBHITXSHARMA/SHOBHITXSHARMA/output/snake.svg" alt="Snake animation" />
